@@ -8,7 +8,7 @@ By left clicking on an object a white circle will appear around it indicating th
 
 There are also some keyboard controls to make the interaction with objects easier and faster:
 
-W, A, S, D: velocity control for the selected object
+W, A, S, D: velocity vector controls for the selected object
 
 Q, E: decrease/increase path iterations
 
