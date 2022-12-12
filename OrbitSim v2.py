@@ -56,7 +56,7 @@ class OrbitSimGui:
 
         tk.Entry(settings_frame, textvariable=widgets["grid_scale_textvar"], width=4).pack(side=tk.LEFT, padx=1)
 
-        tk.Label(settings_frame, text="10^").pack(side=tk.LEFT, padx=1)
+        tk.Label(settings_frame, text="* 10^").pack(side=tk.LEFT, padx=1)
 
         widgets.update({"space_scale_textvar": tk.StringVar(value='0')})
 
