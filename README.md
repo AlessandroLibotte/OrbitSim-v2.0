@@ -13,6 +13,10 @@ This basic software is capable of computing and displaying an approximation of t
 
 The accuracity of the orbits displayed is based on the "Path Resolution" value, decreasing this value will increase the accuracity of the approximated orbit but also increase the time needed to compute every point of the orbit and the lag when moving the object.
 
+I'm still not happy with the accuracity to lag ratio and would like to find an approah to approximate the orbits more efficiently and more accurately.
+
+Controls:
+
 By left clicking on an object a white circle will appear around it indicating that the object is selected, by clicking anywhere else the object will be deselected. Object can be moved by holding down left click on them and dragging.
 
 There are also some keyboard controls to make the interaction with objects easier and faster:
